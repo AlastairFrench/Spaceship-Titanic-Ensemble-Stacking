@@ -2,7 +2,7 @@
 
 Python notebook for my submission to the Kaggle datascience competition "Spaceship Titanic". For ease of reading I have split up my submission into different repositories for the different sections of my data science framework. In this section I used an ensemble stacking method with XGBoost to try and improve my prediciton.
 
-In this repository I have also included the cleaned train and test data from my Spaceship-Titanic-Data-Wrangling repository.
+In this repository I have also included the cleaned train and test data from my Spaceship-Titanic-Data-Wrangling repository, as well as the MLA prediction scores from my Spaceship-Titanic-Modelling repository. 
 
 From Kaggle: "Welcome to the year 2912, where your data science skills are needed to solve a cosmic mystery. We've received a transmission from four lightyears away and things aren't looking good.
 
