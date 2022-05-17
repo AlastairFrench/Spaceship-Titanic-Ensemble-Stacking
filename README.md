@@ -4,7 +4,9 @@ Python notebook for my submission to the Kaggle datascience competition "Spacesh
 
 In this repository I have also included the cleaned train and test data from my Spaceship-Titanic-Data-Wrangling repository, as well as the MLA prediction scores from my Spaceship-Titanic-Modelling repository. 
 
-From Kaggle: "Welcome to the year 2912, where your data science skills are needed to solve a cosmic mystery. We've received a transmission from four lightyears away and things aren't looking good.
+From Kaggle: 
+
+"Welcome to the year 2912, where your data science skills are needed to solve a cosmic mystery. We've received a transmission from four lightyears away and things aren't looking good.
 
 The Spaceship Titanic was an interstellar passenger liner launched a month ago. With almost 13,000 passengers on board, the vessel set out on its maiden voyage transporting emigrants from our solar system to three newly habitable exoplanets orbiting nearby stars.
 
